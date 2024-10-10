@@ -1,16 +1,35 @@
-## Hola 👋
+# Hi there! 👋
 
-<!--
-**bagasgmlngr/bagasgmlngr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Web Developer from Tangerang, Indonesia. Passionate about building modern web applications that deliver great user experiences.
 
-Here are some ideas to get you started:
+## 🛠 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** JavaScript (most used), TypeScript, PHP, HTML5, CSS3
+- **Frontend Frameworks & Libraries:** React.js, Next.js
+- **Styling:** Bootstrap, Tailwind CSS
+- **Backend Framework:** Laravel
+- **Other Tools:** Git, NPM/Yarn
+
+## 💼 What I Use
+
+- **Frontend:** HTML5, CSS3, JavaScript, TypeScript, Bootstrap, Tailwind CSS, React.js, Next.js
+- **Backend:** PHP, Laravel
+
+## 🌱 Currently Learning
+
+- Improving my skills in Next.js and TypeScript.
+- Exploring the latest trends in frontend development.
+
+## 👥 Contributions
+
+I love collaborating on open-source projects and contributing to the community. If you have an interesting project, feel free to reach out!
+
+## 📫 How to Reach Me
+
+- **LinkedIn:** [Your LinkedIn URL]
+- **Email:** [Your Email Address]
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
