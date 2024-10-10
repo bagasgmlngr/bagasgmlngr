@@ -2,8 +2,6 @@
 
 I'm a **Web Developer** from Tangerang, Indonesia. Passionate about building modern web applications that deliver great user experiences.
 
-![Banner](https://yourimageurl.com) <!-- Replace with your custom banner or image -->
-
 ## 🛠 Technologies & Tools
 
 - **Languages:**  
