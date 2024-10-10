@@ -1,35 +1,32 @@
 # Hi there! 👋
 
-I'm a Web Developer from Tangerang, Indonesia. Passionate about building modern web applications that deliver great user experiences.
+I'm a **Web Developer** from Tangerang, Indonesia. Passionate about building modern web applications that deliver great user experiences.
+
+![Banner](https://yourimageurl.com) <!-- Replace with your custom banner or image -->
 
 ## 🛠 Technologies & Tools
 
-- **Languages:** JavaScript (most used), TypeScript, PHP, HTML5, CSS3
-- **Frontend Frameworks & Libraries:** React.js, Next.js
-- **Styling:** Bootstrap, Tailwind CSS
-- **Backend Framework:** Laravel
-- **Other Tools:** Git, NPM/Yarn
+- **Languages:**  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) 
+  ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php) 
+  ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) 
+  ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 
-## 💼 What I Use
+- **Frontend Frameworks & Libraries:**  
+  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
+  ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
 
-- **Frontend:** HTML5, CSS3, JavaScript, TypeScript, Bootstrap, Tailwind CSS, React.js, Next.js
-- **Backend:** PHP, Laravel
+- **Styling:**  
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap) 
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
 
-## 🌱 Currently Learning
+- **Backend Framework:**  
+  ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 
-- Improving my skills in Next.js and TypeScript.
-- Exploring the latest trends in frontend development.
+- **Other Tools:**  
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
+  ![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm) 
+  ![Yarn](https://img.shields.io/badge/-Yarn-black?style=flat-square&logo=yarn)
 
-## 👥 Contributions
-
-I love collaborating on open-source projects and contributing to the community. If you have an interesting project, feel free to reach out!
-
-## 📫 How to Reach Me
-
-- **LinkedIn:** [Your LinkedIn URL]
-- **Email:** [Your Email Address]
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
