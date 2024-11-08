@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a **Web Developer** from Tangerang, Indonesia. Passionate about building modern web applications that deliver great user experiences.
+I'm a **Frontend Developer** from Tangerang, Indonesia. Passionate about building modern web applications that deliver great user experiences.
 
 ## 🛠 Technologies & Tools
 
