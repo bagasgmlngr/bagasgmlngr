@@ -13,6 +13,7 @@ I'm a **Web Developer** from Tangerang, Indonesia. Passionate about building mod
 
 - **Frontend Frameworks & Libraries:**  
   ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
+  ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=Vite) 
   ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
 
 - **Styling:**  
