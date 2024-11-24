@@ -35,5 +35,5 @@ I'm a **Frontend Engineer** from Tangerang, Indonesia. Passionate about building
 
 ## 🔥 GitHub Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=your-github-username&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bagasgmlngr&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
