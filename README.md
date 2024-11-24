@@ -2,8 +2,6 @@
 
 I'm a **Frontend Engineer** from Tangerang, Indonesia. Passionate about building modern web and mobile applications that deliver great user experiences.
 
----
-
 ## 🛠 Technologies & Tools
 
 - **Languages:**  
@@ -34,7 +32,6 @@ I'm a **Frontend Engineer** from Tangerang, Indonesia. Passionate about building
   ![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)  
   ![Yarn](https://img.shields.io/badge/-Yarn-black?style=flat-square&logo=yarn)  
 
----
 
 ## 🔥 GitHub Streak Stats
 
