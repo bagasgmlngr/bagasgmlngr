@@ -1,7 +1,3 @@
-# Hi there! 👋
-
-I'm a **Frontend Engineer** from Tangerang, Indonesia. Passionate about building modern web and mobile applications that deliver great user experiences.
-
 ## 🛠 Technologies & Tools
 
 - **Languages:**  
