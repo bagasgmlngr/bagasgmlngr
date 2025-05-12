@@ -1,25 +1,21 @@
-<!-- Github Profile -->
-<div align="center">
+<!-- GitHub Profile -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=bagasgmlngr&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bagasgmlngr&theme=dark)](https://git.io/streak-stats)
 
-<br>
+## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=js,ts,php,html,css,dart" />
-<br>
-<img src="https://skillicons.dev/icons?i=react,vite,nextjs" />
-<br>
-<img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
-<br>
-<img src="https://skillicons.dev/icons?i=flutter" />
-<br>
-<img src="https://skillicons.dev/icons?i=laravel" />
-<br>
-<img src="https://skillicons.dev/icons?i=git,npm,yarn" />
+### Languages & Technologies
+![Languages](https://skillicons.dev/icons?i=js,ts,php,html,css,dart)
 
-<br>
+### Frameworks & Libraries
+![Frontend](https://skillicons.dev/icons?i=react,vite,nextjs)
+![CSS](https://skillicons.dev/icons?i=bootstrap,tailwind)
+![Mobile](https://skillicons.dev/icons?i=flutter)
+![Backend](https://skillicons.dev/icons?i=laravel)
 
-<a href="your-linkedin-url"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="your-twitter-url"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+### Development Tools
+![Tools](https://skillicons.dev/icons?i=git,npm,yarn)
 
-</div>
+## Connect With Me
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](your-linkedin-url)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](your-twitter-url)
