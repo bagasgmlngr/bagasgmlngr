@@ -18,4 +18,3 @@
 
 ## Connect With Me
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](your-linkedin-url)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](your-twitter-url)
