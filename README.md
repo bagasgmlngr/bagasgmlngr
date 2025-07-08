@@ -5,13 +5,12 @@
 ## Tech Stack
 
 ### Languages & Technologies
-![Languages](https://skillicons.dev/icons?i=js,ts,php,html,css,dart)
+![Languages](https://skillicons.dev/icons?i=js,ts,html,css,dart)
 
 ### Frameworks & Libraries
 ![Frontend](https://skillicons.dev/icons?i=react,vite,nextjs)
 ![CSS](https://skillicons.dev/icons?i=bootstrap,tailwind)
 ![Mobile](https://skillicons.dev/icons?i=flutter)
-![Backend](https://skillicons.dev/icons?i=laravel)
 
 ### Development Tools
 ![Tools](https://skillicons.dev/icons?i=git,npm,yarn)
